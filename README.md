@@ -18,11 +18,11 @@ A retro-style, two-level Space Invaders game written in Python using Pygame, wit
 
 
 *Controls
-Key                 Action:
-LEFT ARROW:         Move left
-RIGHT ARROW:        Move right
-SPACE:              Start title screen / shoot during gameplay / proceed to Level 2 / restart after game over
-E:                  Deploy Level 2 shield when available
+Key & Action:
+LEFT ARROW: Move left
+RIGHT ARROW: Move right
+SPACE: Start title screen / shoot during gameplay / proceed to Level 2 / restart after game over
+E: Deploy Level 2 shield when available
 
 
 *Project Files
